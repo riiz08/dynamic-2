@@ -17,7 +17,7 @@ function update() {
   
   //Change Text Size 
   if (c === 'font-size') {
-    document.getElementById('targetObject2').style.fontSize = v;
+    document.getElementById('targetObject2').style.fontSize = v+'px';
   }
   
   
